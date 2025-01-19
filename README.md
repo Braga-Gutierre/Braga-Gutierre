@@ -32,7 +32,7 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
     title="RUBY"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg"
 />
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
     title="RAILS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg"
 />
 <img 
     align="left" 

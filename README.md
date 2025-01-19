@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk4ZDV3eTltN3VmdnA3dWhqZWVjZ3pvbHQ2dmx5bDJrYWd3ZXpzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="600" height="300"/>
 </div>
 
 **`Desenvolvedor Backend`**

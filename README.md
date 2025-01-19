@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou criando esta conta no github para aprender sobre programção, atualmente estou estudando a lang ruby e seu framework ruby on rails.
 
@@ -32,7 +32,7 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
     title="Ruby"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
     title="Ruby on Rails"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 <img 
     align="left" 

@@ -26,6 +26,22 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<img
+    align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left" 
+    alt="BOOTSTRAP" 
+    title="BOOTSTRAP"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="RUBY" 
@@ -42,18 +58,26 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg"
 />
+<img
+    align="left" 
+    alt="ELIXIR"
+    title="ELIXIR"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" 
+/>
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="GIT" 
+    title="GIT"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img
   align="left" 
-  alt="Linux" 
-  title="Linux"
+  alt="LINUX" 
+  title="LINUX"
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 

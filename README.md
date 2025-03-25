@@ -97,6 +97,9 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braga-Gutierre&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braga-Gutierre&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Braga-Gutierre&theme=tokyonight&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Braga-Gutierre&theme=tokyonight&repo=convoychat" />
+</a>

@@ -68,6 +68,14 @@ Me chamo Gutierre Braga, tenho 34 anos e sou natural de Fortaleza Ceará. Estou 
 />
 <img 
     align="left" 
+    alt="PHOENIX"
+    title="PHOENIX"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" 
+/>
+<img 
+    align="left" 
     alt="GIT" 
     title="GIT"
     width="30px" 
